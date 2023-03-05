@@ -1,2 +1,2 @@
 # potionfy
-Our experimental application
+Build and share your potions!
